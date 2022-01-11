@@ -1,4 +1,4 @@
-# 🐼 Shop-Sell | Linux Araçları ve Kabuk Programlama 🐼
+# 🐼 Shop-Sell 🐼
     Zenity ve bash script ile kodlanmis, crud islemlerini yapabildiginiz bir programdir.
  <div align="center">
     <img src="https://user-images.githubusercontent.com/56169582/149015766-f93e03dd-0e73-428b-b0f7-49ad1982663c.png" />
