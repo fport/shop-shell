@@ -11,7 +11,7 @@
         <li><a href="#Ürün-Silme">Ürün silme</a></li>
         <li><a href="#Ürün-Arama">Ürün arama</a></li>
         <li><a href="#Ürün-Listeleme">Databasede bulunan ürün listeleme</a></li>
-        <li><a href="#Yonlendirme-Islemleri">Uygulamadan çıkış yapma</a></li>
+        <li><a href="#Yonlendirme-Islemleri">Yönlendirme İşlemleri</a></li>
         <li><a href="#Uygulamadan-Cikis">Uygulamadan çıkış yapma</a></li>
 </ol>
 
