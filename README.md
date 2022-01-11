@@ -98,7 +98,7 @@
 
 
 ## YouTube Linki
-[Linke](https://www.youtube.com/channel/UCmD3SkjDIu-5sZ-bEe8UkSw) tıklayarak projenin anlatımını izleyebilirsiniz.
+[Linke](https://youtu.be/J-gun9RpCSo) tıklayarak projenin anlatımını izleyebilirsiniz.
 
 ## Geliştirme ve Kullanılan Toollar
 - Arch Linux üzerinde Tilix terminalı kullanıldı. 
