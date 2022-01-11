@@ -106,4 +106,5 @@
 - Vim Text editoru kullanıldı.
 - Bir döngüye alınarak uygulama görüntüsü elde edildi.
 - Grep, cat, sleep, echo, bash functions, if while donguleri gibi komutlar kullanildi.
+- 2. madde olan 'Shell Script kullanılarak basit bir TODO List uygulaması yapılacak. Veritabanı olarak text file kullanılacak. Ne kadar çok özellik varsa o kadar fazla puan alırsınız' secerek ilerledim ve TODO listenin disinda daha cok bir shop center gibi dusunup daha fazla ozellik eklemis oldum.
 - Furkan Portakal ( @fport ) tarafından *Linux Araçları ve Kabuk Programlama Donem Projesi* icin kodlanmıştır.
